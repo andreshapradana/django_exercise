@@ -1,0 +1,1 @@
+web: gunicorn andre_django.wsgi --log-file -
