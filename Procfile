@@ -1,1 +1,1 @@
-web: gunicorn andre_django.wsgi --log-file -
+web: gunicorn andredjangooo.wsgi --log-file -
