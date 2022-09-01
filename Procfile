@@ -1,1 +1,1 @@
-web: gunicorn andredjangooo.wsgi --log-file -
+web: gunicorn projectone.wsgi --log-file -
